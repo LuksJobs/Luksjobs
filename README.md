@@ -6,10 +6,11 @@ Essa paixão me fez explorar o conceito de Virtualização. Instalar o Xen (Type
 
 Então, agora na indústria, essa paixão permanece comigo. Certamente ainda há mais para aprender e ainda mais para migrar para a nuvem.
 
-
-
  ### Minhas Skills 😎
+ 
+<!--START_SECTION:waka-->
 
+```txt
 Total Time: 1,994 hrs 44 mins
 
 Other              673 hrs 8 mins  ████████▒░░░░░░░░░░░░░░░░   33.75 %
