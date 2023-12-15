@@ -8,24 +8,6 @@ Então, agora na indústria, essa paixão permanece comigo. Certamente ainda há
 
  ### Minhas Skills 😎
  
-<!--START_SECTION:waka-->
-
-```txt
-Total Time: 1,994 hrs 44 mins
-
-Other              673 hrs 8 mins  ████████▒░░░░░░░░░░░░░░░░   33.75 %
-ShellScript        550 hrs 47 mins ███████░░░░░░░░░░░░░░░░░░   27.61 %
-JavaScript         498 hrs 51 mins ██████▒░░░░░░░░░░░░░░░░░░   25.01 %
-JavaScript         54 hrs 29 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
-sh                 43 hrs 43 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
-Bash               41 hrs 41 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
-PHP                32 hrs 46 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
-JSON               26 hrs 56 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
-YAML               26 hrs 53 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
-TeX                9 hrs 3 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
-```
-<!--END_SECTION:waka-->
- 
  #### Containerization and Orchestration
  
   <p float="left">
@@ -57,7 +39,6 @@ TeX                9 hrs 3 mins    ░░░░░░░░░░░░░░░
   #### Monitoring 
    
   <p float="left">
-   <code><img width="15%" height="75" src="https://github.com/cncf/artwork/blob/master/projects/thanos/horizontal/color/thanos-horizontal-color.svg"></code>
    <code><img width="15%" height="75" src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg"></code>
    <code><img width="15%" height="75" src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg"></code>
  </p>
