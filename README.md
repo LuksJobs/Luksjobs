@@ -1,5 +1,9 @@
  ### Hi there 👋 ,  I am Lucas Oliveira !!
- 
+<!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
+
 Desde a minha infância, Cloud Computing tem sido minha paixão. Ainda me lembro de estar sentado na frente do meu laptop, criando uma máquina virtual, hospedando um "Hello World!!" página da web usando um servidor web apache. Desde então, fiquei obcecado com a ideia de servir conteúdo para o mundo remotamente.
 
 Essa paixão me fez explorar o conceito de Virtualização. Instalar o Xen (Type-1 Hypervisor) em algumas máquinas antigas e hospedar um aplicativo baseado em armazenamento marcou meu primeiro passo para a nuvem. Depois de aprender sobre os vários provedores de nuvem como AWS, AZURE, GCP me fez perceber o quanto ainda havia para aprender. E então aprendi as Tecnologias de Nuvem com praticamente o mesmo fascínio que me motivava quando estudante.
