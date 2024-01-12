@@ -10,77 +10,32 @@ Essa paixão me fez explorar o conceito de Virtualização. Instalar o Xen (Type
 
 Então, agora na indústria, essa paixão permanece comigo. Certamente ainda há mais para aprender e ainda mais para migrar para a nuvem.
 
- ### Minhas Skills 😎
+<!--Languages and Tools Section-->       
+<h2 align="left">Linguagens de Programação e Ferramentas</h2>
+<p align="left">Atualmente trabalho na área de DevOps, utilizando uma variedade de linguagens de programação e ferramentas para otimizar o desenvolvimento, implementação e manutenção de sistemas. Minhas principais linguagens incluem Python (py), JavaScript (js), HTML, CSS, Node.js, Express e Django, enquanto minhas escolhas de banco de dados envolvem PostgreSQL e MongoDB. No gerenciamento de código, utilizo Git, Github e GitLab, e na criação de ambientes de desenvolvimento, conta com o VSCode, Docker e Kubernetes. Além disso, minhas habilidades estendem-se para serviços em nuvem, como AWS e GCP, e para testes e monitoramento, faço uso de ferramentas como Postman, Grafana, Elasticsearch e Prometheus. Meu ambiente é predominantemente baseado em sistemas Linux, refletindo um conjunto abrangente de competências no ecossistema DevOps.</p>
+<p align="left">
+<img width="500px"  src="https://skillicons.dev/icons?i=py,js,html,css,nodejs,express,django,md,postgres,mongo,git,gitlab,vscode,docker,kubernetes,aws,gcp,postman,grafana,elasticsearch,prometheus,linux&perline=10"  />
+</p>
+<br />
 
- <!--START_SECTION:waka-->
+---
 
-```txt
+<h2 align="center">Minhas Redes Sociais 🤝 </h2>
+<div align="center">
+ <a href="https://www.linkedin.com/in/luksjobs/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+  
+<a href="mailto:luksjobs@live.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=kirannaragund197@gmail.com mail style="margin-bottom: 5px;" />
+</a>
 
-Total Time: 1,994 hrs 44 mins
+<a href="https://www.instagram.com/luksjj" target="_blank">
+<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=kiran_a_n Instagram style="margin-bottom: 5px;" />
+</a>
 
-Other              673 hrs 8 mins  ████████▒░░░░░░░░░░░░░░░░   33.75 %
-TypeScript         550 hrs 47 mins ███████░░░░░░░░░░░░░░░░░░   27.61 %
-ShellScript        498 hrs 51 mins ██████▒░░░░░░░░░░░░░░░░░░   25.01 %
-JavaScript         54 hrs 29 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
-sh                 43 hrs 43 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
-Bash               41 hrs 41 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
-Rust               32 hrs 46 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
-JSON               26 hrs 56 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
-YAML               26 hrs 53 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
-TeX                9 hrs 3 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
-```
-
-<!--END_SECTION:waka-->
- 
- #### Containerization and Orchestration
- 
-  <p float="left">
-   <code><img width="15%" height="75" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
-   <code><img width="15%" height="75" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
- </p>
- 
- 
-  #### Service Mesh
- 
-  <p float="left">
-   <code><img width="15%" height="75" src="https://www.vectorlogo.zone/logos/linkerdio/linkerdio-ar21.svg"></code>
- </p>
- 
- 
- #### HashiCorp Stack 
- 
-  <p float="left">
-   <code><img width="15%" height="75" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"></code>
- </p>
- 
- #### GitOps 
- 
-  <p float="left">
-   <code><img width="15%" height="75" src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-ar21.svg"></code>
-   <code><img width="15%" height="75" src="https://www.vectorlogo.zone/logos/fluxcdio/fluxcdio-ar21.svg"></code>
- </p>
- 
-  #### Monitoring 
-   
-  <p float="left">
-   <code><img width="15%" height="75" src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg"></code>
-   <code><img width="15%" height="75" src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg"></code>
- </p>
- 
- #### Package Managers 
- 
-   <p float="left">
-   <code><img width="15%" height="75" src="https://www.vectorlogo.zone/logos/helmsh/helmsh-ar21.svg"></code>
- </p>
- 
-#### CI/CD
-
-   <p float="left">
-   <code><img width="15%" height="75" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></code>
- </p>
- 
- #### Configuration Management 
- 
-   <p float="left">
-   <code><img width="15%" height="75" src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg"></code>
- </p>
+<a href="https://twitter.com/luksjobs" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="kiran__a__n Twitter" style="margin-bottom: 5px;" />
+</a>
+</div>
+<br/>
