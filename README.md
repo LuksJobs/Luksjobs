@@ -4,11 +4,7 @@
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
-Desde a minha infância, Cloud Computing tem sido minha paixão. Ainda me lembro de estar sentado na frente do meu laptop, criando uma máquina virtual, hospedando um "Hello World!!" página da web usando um servidor web apache. Desde então, fiquei obcecado com a ideia de servir conteúdo para o mundo remotamente.
-
-Essa paixão me fez explorar o conceito de Virtualização. Instalar o Xen (Type-1 Hypervisor) em algumas máquinas antigas e hospedar um aplicativo baseado em armazenamento marcou meu primeiro passo para a nuvem. Depois de aprender sobre os vários provedores de nuvem como AWS, AZURE, GCP me fez perceber o quanto ainda havia para aprender. E então aprendi as Tecnologias de Nuvem com praticamente o mesmo fascínio que me motivava quando estudante.
-
-Então, agora na indústria, essa paixão permanece comigo. Certamente ainda há mais para aprender e ainda mais para migrar para a nuvem.
+Ao longo da minha trajetória profissional na área de Tecnologia da Informação, acumulando mais de uma década de experiência especializada em DevOps, SRE e Cloud Practioner pude testemunhar a evolução constante da computação em nuvem e imergir em tecnologias como Docker, Kubernetes, Pipelines e demais ferramentas que compõem o ecossistema DevOps. Desde os primórdios de minha carreira, recordo-me vividamente de dedicar horas à frente do meu computador, criando máquinas virtuais e hospedando páginas web simples com um entusiasmo inabalável! Aprofundando-me na compreensão dos variados provedores de nuvem, como AWS, AZURE e GCP, percebi a vastidão de conhecimento disponível e a constante necessidade de aprendizado. Esta percepção alimentou minha inextinguível sede por conhecimento, conduzindo-me a absorver as nuances das Tecnologias em Nuvem com a mesma intensidade e fascínio que experimentei durante meus dias acadêmicos.
 
 <!--Languages and Tools Section-->       
 <h2 align="left">Linguagens de Programação e Ferramentas</h2>
