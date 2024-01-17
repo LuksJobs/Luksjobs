@@ -10,7 +10,7 @@ Ao longo da minha trajetória profissional na área de Tecnologia da Informaçã
 <h2 align="left">Linguagens de Programação e Ferramentas</h2>
 <p align="left">Atualmente trabalho na área de DevOps, utilizando uma variedade de linguagens de programação e ferramentas para otimizar o desenvolvimento, implementação e manutenção de sistemas. Minhas principais linguagens incluem Python (py), JavaScript (js), HTML, CSS, Node.js, Express e Django, enquanto minhas escolhas de banco de dados envolvem PostgreSQL e MongoDB. No gerenciamento de código, utilizo Git, Github e GitLab, e na criação de ambientes de desenvolvimento, conta com o VSCode, Docker e Kubernetes. Além disso, minhas habilidades estendem-se para serviços em nuvem, como AWS e GCP, e para testes e monitoramento, faço uso de ferramentas como Postman, Grafana, Elasticsearch e Prometheus. Meu ambiente é predominantemente baseado em sistemas Linux, refletindo um conjunto abrangente de competências no ecossistema DevOps.</p>
 <p align="center">
-<img width="500px" src="https://skillicons.dev/icons?i=py,js,html,css,nodejs,express,django,md,postgres,mongo,git,gitlab,vscode,docker,kubernetes,helm,keda,aws,gcp,postman,grafana,elasticsearch,prometheus,linux&perline=10" />
+<img width="500px" src="https://skillicons.dev/icons?i=py,js,html,css,nodejs,express,django,md,postgres,mongo,git,gitlab,vscode,vim,docker,kubernetes,ansible,terraform,,aws,gcp,postman,grafana,elasticsearch,prometheus,linux&perline=10" />
 </p>
 <br />
 
